@@ -1,7 +1,7 @@
 
   <h1 align="center">Hi there, I'm Andrey👋</h1>
   <div align="center">
-    <a href="your-linkedin-URL">
+    <a href="https://www.linkedin.com/in/kharitonov-andrey">
       <img src="https://img.shields.io/badge/LinkedIn-316192?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
     <a href="https://t.me/benaun_126">
